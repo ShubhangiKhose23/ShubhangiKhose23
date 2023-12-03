@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **HTML**
 
 - 📫 How to reach me **Shubhangikhose237@gmail.com**
 

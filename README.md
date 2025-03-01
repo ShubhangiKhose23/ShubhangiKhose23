@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **java**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **React JS**
+
+- I,m Completed **Full Stack Java Developer Course**
 
 - 💬 Ask me about **HTML**
 

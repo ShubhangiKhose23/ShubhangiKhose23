@@ -12,7 +12,8 @@
 
 - 💬 Ask me about **HTML  CSS  JS  OOP's  JDBC  Servlet  JSP**
 
-- 📫 How to reach me **Shubhangikhose237@gmail.com**
+- 📫 How to reach me **shubhangikhose237@gmail.com
+-                     khoseshubhangi1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

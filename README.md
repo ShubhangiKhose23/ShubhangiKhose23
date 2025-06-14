@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on **SpringBoot**
 - 
-- 🌱I’m currently working on ** Hibernte**
+- 🌱I’m currently working on **Hibernte**
 
 - I,m Completed **Full Stack Java Developer Course**
 

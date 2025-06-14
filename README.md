@@ -4,11 +4,13 @@
 
 - 🔭 I’m currently working on **java**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently working on **SpringBoot**
+- 
+- 🌱I’m currently working on ** Hibernte**
 
 - I,m Completed **Full Stack Java Developer Course**
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **HTML CSS JS OOP's JDBC Servlet JSP **
 
 - 📫 How to reach me **Shubhangikhose237@gmail.com**
 
